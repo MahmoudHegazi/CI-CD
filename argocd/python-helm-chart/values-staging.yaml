@@ -1,5 +1,5 @@
 namespace:
-  name: staging
+  name: stagingv2
 
 name: python-app-staging
 
