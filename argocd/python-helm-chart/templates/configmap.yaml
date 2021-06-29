@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  pyversion: {{ .Values.pythonversion }}
+kind: ConfigMap
+metadata:
+  name: python-version
+  namespace: {{ .Values.namespace.name }}

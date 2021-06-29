@@ -1,0 +1,14 @@
+namespace:
+  name: production
+ 
+image:
+  repository: pythonking1/python-app
+  tag: v1.0.1
+
+replicaCount: 3
+
+name: python-app-proudction
+
+pythonversion: python3.8
+
+tier: proudction
