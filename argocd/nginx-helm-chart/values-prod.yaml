@@ -1,5 +1,5 @@
 namespace:
-  name: prod
+  name: pythonking-prod
  
 image:
   repository: nginx
