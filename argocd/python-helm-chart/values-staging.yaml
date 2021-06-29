@@ -1,0 +1,6 @@
+namespace:
+  name: staging
+
+name: python-app-staging
+
+tier: staging
