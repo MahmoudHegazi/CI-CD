@@ -1,0 +1,11 @@
+apiVersion: v1
+name: nginx-deployment
+description: setup nginx with helm chart
+keywords:
+- nginx
+- helm
+version: 1.0.0
+maintainers:
+- name: mahmoud
+  github: MahmoudHegazi@github.com
+  role: full stack web developer
